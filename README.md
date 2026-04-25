@@ -22,7 +22,7 @@
 
     <script>
         let currentCoords = "NW"; 
-        const myNumber = "78001234567"; // ЗАМЕНИТЕ НА ВАШ НОМЕР
+        const myNumber = "79166803073"; // ЗАМЕНИТЕ НА ВАШ НОМЕР
 
         function requestGeo() {
             const status = document.getElementById('status');
