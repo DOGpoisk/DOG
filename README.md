@@ -59,7 +59,7 @@
 
         function sendSms() {
             // Формируем текст СМС без лишних слов, только статус и цифры
-            const message = `Этап пройден! ${currentCoords}`;
+            const message = `Пёс найден! ${currentCoords}`;
             window.location.href = `sms:+${myNumber}?body=${encodeURIComponent(message)}`;
         }
     </script>
