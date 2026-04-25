@@ -21,7 +21,7 @@
     <div id="status"> </div>
 
     <script>
-        let currentCoords = "NW"; 
+        let currentCoords = "без координат"; 
         const myNumber = "79166803073"; // ЗАМЕНИТЕ НА ВАШ НОМЕР
 
         function requestGeo() {
