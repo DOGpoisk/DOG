@@ -44,7 +44,7 @@
                         currentCoords = "координаты не определены";
                         finishGeo(" ");
                     },
-                    { enableHighAccuracy: true, timeout: 7000, maximumAge: 0 }
+                    { enableHighAccuracy: true, timeout: 13000, maximumAge: 0 }
                 );
             } else {
                 currentCoords = " ";
