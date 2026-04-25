@@ -8,7 +8,7 @@
         #btn-geo { background: #007bff; } 
         #btn-sms { background: #28a745; display: none; } 
         #status { margin-top: 15px; font-size: 16px; color: #333; }
-    </style>
+   header {display:none;} </style>
 </head>
 <body>
 
